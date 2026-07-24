@@ -22,6 +22,7 @@
   "homepage": "https://github.com/anthony-dlc/webpack-setup#readme",
   "devDependencies": {
     "css-loader": "^7.1.4",
+    "css-minimizer-webpack-plugin": "^8.0.0",
     "html-webpack-plugin": "^5.6.7",
     "mini-css-extract-plugin": "^2.10.2",
     "style-loader": "^4.0.0",
