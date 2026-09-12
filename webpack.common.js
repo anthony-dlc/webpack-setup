@@ -16,7 +16,7 @@ export default {
     }),
   ],
   output: {
-    publicPath: '/to-do/',
+    // publicPath: '/repo-name/',
     filename: "[name].bundle.js",
     path: path.resolve(__dirname, "dist"),
     clean: true,
